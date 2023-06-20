@@ -179,13 +179,9 @@ and once the dependencies are installed, run the application,
 npm start
 ```
 
-si por algun motivo le exije instalar una key, ejectute el sigueinte comando (y vuelva a jecutar el comando anterior (php artisan serv)):
-
-```
- php artisan key:generate
-```
 run curl or in postman, the paths given to you
 ```
+
  INFO  Server running on [http://localhost:3000].
 ```
 The execution process has finished, Thank you for downloading
