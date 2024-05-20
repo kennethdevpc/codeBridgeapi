@@ -195,13 +195,13 @@ The execution process has finished, Thank you for downloading
 
 ### <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-Email: **kennethdevpc@gmail.com**
+
 
 Wpp: **<a href="https://wa.link/2rl3qe"> +573184484423 </a>**
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-puliche-9a5b02272/)
+
 </br>
 
 ---
